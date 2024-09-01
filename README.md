@@ -1,1 +1,1 @@
-# Java-coding-games
+# Java-coding
